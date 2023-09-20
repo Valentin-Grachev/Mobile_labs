@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.labrador.Lab-1
+Exec=/usr/bin/ru.labrador.Lab-1
+Name=Lab-1
+Name[ru]=Лабораторная 1
+
+[X-Application]
+Permissions=
+OrganizationName=ru.labrador
+ApplicationName=Lab-1
+ExecDBus=/usr/bin/ru.labrador.Lab-1
