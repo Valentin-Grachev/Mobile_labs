@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.IqPuzzle
+Exec=/usr/bin/ru.auroraos.IqPuzzle
+Name=IqPuzzle
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=
+OrganizationName=ru.auroraos
+ApplicationName=IqPuzzle
+ExecDBus=/usr/bin/ru.auroraos.IqPuzzle
