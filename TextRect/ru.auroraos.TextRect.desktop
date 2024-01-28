@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.TextRect
+Exec=/usr/bin/ru.auroraos.TextRect
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=
+OrganizationName=ru.auroraos
+ApplicationName=TextRect
+ExecDBus=/usr/bin/ru.auroraos.TextRect
